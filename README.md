@@ -1,6 +1,6 @@
 Developer Dashboards **WIP**
 ====================
-######Social sites 
+######Social sites |
 [Facebook](https://developers.facebook.com/)
 [Twitter](https://dev.twitter.com//)
 
