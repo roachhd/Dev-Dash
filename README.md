@@ -6,6 +6,7 @@ Developer Dashboards **WIP**
  * [Instagram]()
  * [Tumblr]()
 
+---------------
 ###### Development Dashboards
  * [Apple iOS](https://developer.apple.com/membercenter/)
  * [iTunes Connect](https://itunesconnect.apple.com/)
@@ -16,6 +17,7 @@ Developer Dashboards **WIP**
  * [Xbox One]()
  * [Xbox Indie]()
 
+-----
 ######Services
  * [Azure Portal]()
  * [Parse](https://www.parse.com/apps)
@@ -25,7 +27,8 @@ Developer Dashboards **WIP**
  * [Creative Cloud]()
  * [Telerik Platform]()
 
-#####Other APIs
+----------
+######Other APIs
  * [FitBit]()
  * [Google Maps]()
  * [Bing Maps]()
@@ -34,14 +37,18 @@ Developer Dashboards **WIP**
  * [Kodak]()
  * [Githib Dev](http://developer.github.io)
 
+---------------
 ######Source Control
  * [Github](http://Github.com)
  * [BitBucket](http://Bitbucket.com)
 
+---------------
 ######Nokia
 
+--------------
 ######Maps
 
+-----------------
 ######Health
 
 #####Music
