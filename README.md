@@ -12,7 +12,7 @@
  * [Google Play]()
  * [Windows Phone](http://dev.windows.com)
  * [Nokia]()
- * [Nintendo]()
+ * [Nintendo WiiU Dev](https://wiiu-developers.nintendo.com/site/)
  * [Xbox One]()
  * [Xbox Indie]()
 
