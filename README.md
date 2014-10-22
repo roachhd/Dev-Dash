@@ -6,7 +6,6 @@
  * [Instagram]()
  * [Tumblr]()
 
----------------
 ### Development Dashboards
  * [Apple iOS](https://developer.apple.com/membercenter/)
  * [iTunes Connect](https://itunesconnect.apple.com/)
