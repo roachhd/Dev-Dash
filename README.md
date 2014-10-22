@@ -1,13 +1,13 @@
-Developer Dashboards **WIP**
-====================
-######Social sites
+##Developer Dashboards **WIP**
+----------------------------------------
+###Social Sites Dev Links
  * [Facebook](https://developers.facebook.com/)
  * [Twitter](https://dev.twitter.com//)
  * [Instagram]()
  * [Tumblr]()
 
 ---------------
-###### Development Dashboards
+### Development Dashboards
  * [Apple iOS](https://developer.apple.com/membercenter/)
  * [iTunes Connect](https://itunesconnect.apple.com/)
  * [Google Play]()
@@ -18,7 +18,7 @@ Developer Dashboards **WIP**
  * [Xbox Indie]()
 
 -----
-######Services
+###Dev Services
  * [Azure Portal]()
  * [Parse](https://www.parse.com/apps)
  * [Heroku](https://dashboard-next.heroku)
@@ -27,8 +27,7 @@ Developer Dashboards **WIP**
  * [Creative Cloud]()
  * [Telerik Platform]()
 
-----------
-######Other APIs
+###Other APIs
  * [FitBit]()
  * [Google Maps]()
  * [Bing Maps]()
@@ -37,19 +36,16 @@ Developer Dashboards **WIP**
  * [Kodak]()
  * [Githib Dev](http://developer.github.io)
 
----------------
-######Source Control
+###Source Control
  * [Github](http://Github.com)
  * [BitBucket](http://Bitbucket.com)
 
----------------
-######Nokia
-
 --------------
-######Maps
+#####Nokia
 
------------------
-######Health
+#####Maps
+
+#####Health
 
 #####Music
 
