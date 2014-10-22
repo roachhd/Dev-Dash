@@ -16,7 +16,6 @@
  * [Xbox One]()
  * [Xbox Indie]()
 
------
 ###Dev Services
  * [Azure Portal]()
  * [Parse](https://www.parse.com/apps)
