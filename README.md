@@ -99,7 +99,7 @@ Check out the To Do list [TO DO](http://roachhaus.github.io/Dev-Dash/todo.html>)
 
 #####Planning Tools
  * [Project Hub] 
- * [Trelli Boards](http://Trelli.com)
+ * [Trello Boards](http://trello.com)
 
 #####My Random Handy dev tools
  Link                                     | What is it?
