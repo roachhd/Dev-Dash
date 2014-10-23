@@ -58,8 +58,6 @@
  * [Microsoft Publishing Center]()
  
 
-
-
 #####Maps
 
 #####Health
@@ -72,10 +70,13 @@
 #####Photos
 
 #####Clouds
- * [Dropbox](http://dropbox.com)
- * [Box](http://box.com)
- * [Onedrive](http://onedrive.com)
- * [Drive google](http://drive.google.com)
+ Cloud Site                                | Dev Site
+ ----------------------------------------- | -------------------------------------------
+  [Dropbox](http://dropbox.com)            | [Dropbox dev]()
+  [Box](http://box.com)                    | [Box dev]()
+  [Onedrive](http://onedrive.com)          | [Drive Dev]()
+  [Drive google](http://drive.google.com)  | [OneDrive dev]()
+
 
 #####Dev online
  * [Visual Studio online]()
@@ -89,5 +90,5 @@
 
 
 
-[test](http://roachhd.com "target="_blank")
+[test](http://roachhd.com target="_blank")
 
