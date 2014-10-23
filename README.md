@@ -72,9 +72,11 @@ Check out the To Do list [TO DO](http://roachhaus.github.io/Dev-Dash/todo.html>)
 #####Maps
 
 #####Health
+ *[HealthVault]()
 
 #####Music
- * [Soundcloud]()
+ *10[Rdio](http://www.rdio.com/developers/)
+ * [Soundcloud](https://developers.soundcloud.com)
  * [Spotify]()
  * [Xbox Music](http://music.xbox.com/developer)
 
@@ -105,6 +107,5 @@ Check out the To Do list [TO DO](http://roachhaus.github.io/Dev-Dash/todo.html>)
 
 #####Promo Tools
  * Apple links maker
-
 
 
