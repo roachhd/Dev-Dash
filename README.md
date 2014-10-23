@@ -11,6 +11,7 @@
  * [iTunes Connect](https://itunesconnect.apple.com/)
  * [Google Play]()
  * [Windows Phone](http://dev.windows.com)
+ * [ Chrome Webstore](https://chrome.google.com/webstore/developer/dashboard)
  * [Nokia]()
  * [Nintendo WiiU Dev](https://wiiu-developers.nintendo.com/site/)
  * [Xbox One]()
