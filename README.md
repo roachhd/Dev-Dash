@@ -1,26 +1,30 @@
-##Developer Dashboards *WIP*
+Developer Dashboards *WIP*
+===
 This repo is a list of links to developer dashboards, publishing tools, backend services, SDK's and API's to use in development, development tools, and a bunch of other random stuff. 
 I find there are so many that I use that it's handy to have a list to check out to see what tools and services I want to use for my next project. 
 
 ### Development Dashboards
- * [Apple iOS](https://developer.apple.com/membercenter/)
- * [iTunes Connect](https://itunesconnect.apple.com/)
- * [Google Play]()
- * [Windows Phone](http://dev.windows.com)
- * [ Chrome Webstore](https://chrome.google.com/webstore/developer/dashboard)
- * [Nokia]()
- * [Nintendo WiiU Dev](https://wiiu-developers.nintendo.com/site/)
- * [Xbox One]()
- * [Xbox Indie]()
+ Dashboard                                                                 | Docs                    | Forums/other
+ ------------------------------------------------------------------------- | ----------------------- | --------------         
+  [Apple Member Center](https://developer.apple.com/membercenter/)         |.                        |.    
+  [iTunes Connect](https://itunesconnect.apple.com/)                       |.                        |.  
+  [Google Play]()                                                          |.                        |
+  [Windows Phone](http://dev.windows.com)                                  |.                        |.  
+  [Chrome Webstore](https://chrome.google.com/webstore/developer/dashboard)|.                        |.   
+  [Nokia]()                                                                |.                        |.   
+  [Nintendo WiiU Dev](https://wiiu-developers.nintendo.com/site/)          |.                        |. 
+  [Xbox One]()                                                             |.                        |.   
+  [Xbox Indie]()                                                           |.                        |.   
+  [Amazon]()                                                               |.                        |.   
 
 ###Social Sites & Dev Links
-  Dev Site                                         | Social Site
-  ------------------------------------------------ | ---------------------
-  [Facebook dev](https://developers.facebook.com/)     | [Facebook](http://facebook.com)
-  [Twitter dev](https://dev.twitter.com//).         | here
-  [Instagram dev](http://Instagram.com/developer) |
-  [Tumblr](http://tumbler.com/developers)|here
-  [Pinterest](http://developers.pinterest.com)| here
+  Dev Site                                                  | Social Site
+  --------------------------------------------------------- | ---------------------
+  [Facebook dev](https://developers.facebook.com/)          | [Facebook](http://facebook.com)
+  [Twitter dev](https://dev.twitter.com//)                  | [Twitter](https://twitter.com)
+  [Instagram dev](http://Instagram.com/developer)           | [Instagram](http://instagram.com)
+  [Tumblr](http://tumbler.com/developers)                   | [Tumbler ](http://tumbler.com)
+  [Pinterest](http://developers.pinterest.com)              | [Pinterest](http://pinterest.com)
   [Flickr dev](https://www.flickr.com/services/developer)   | [Flickr](http://flickr.com)
 
 ###App Services
@@ -99,5 +103,4 @@ I find there are so many that I use that it's handy to have a list to check out 
 #####Promo Tools
  * Apple links maker
 
-[test](http://roachhd.com target="_blank")
 
