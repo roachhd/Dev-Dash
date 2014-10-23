@@ -1,49 +1,10 @@
-Developer Dashboards **WIP**
-====================
-######Social sites
- * [Facebook](https://developers.facebook.com/)
- * [Twitter](https://dev.twitter.com//)
- * [Instagram]()
- * [Tumblr]()
+Developer Dashboards *WIP*
+===
+[Fork it](http://github.com/roachhd/Dev-Dash), [Star it](http://github.com/roachhd/Dev-Dash) or just drool over it it [here](http://roachhd.github.io/Dev-Dash/)
 
-###### Development Dashboards
- * [Apple iOS](https://developer.apple.com/membercenter/)
- * [iTunes Connect](https://itunesconnect.apple.com/)
- * [Google Play]()
- * [Windows Phone](http://dev.windows.com)
- * [Nokia]()
- * [Nintendo]()
- * [Xbox One]()
- * [Xbox Indie]()
+[Read](http://roachhd.github.io/Dev-Dash/todo.html) my To do list
 
-######Services
- * [Azure Portal]()
- * [Parse](https://www.parse.com/apps)
- * [Heroku](https://dashboard-next.heroku)
- * [Ludei cocoonjs]()
- * [Business Catalyst]()
- * [Creative Cloud]()
- * [Telerik Platform]()
+Add stuff and submit a pull request!
 
-#####Other APIs
- * [FitBit]()
- * [Google Maps]()
- * [Bing Maps]()
- * [Nokia Maps Here]()
- * [HealthVault - Microsoft]()
- * [Kodak]()
- * [Githib Dev](http://developer.github.io)
+[Tweet me](https://twitter.com/mektball), I love it ❤ 
 
-######Source Control
- * [Github](http://Github.com)
- * [BitBucket](http://Bitbucket.com)
-
-######Nokia
-
-######Maps
-
-######Health
-
-#####Music
-
-#####Photos
