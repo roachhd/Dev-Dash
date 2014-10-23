@@ -109,9 +109,10 @@ Check out the To Do list [TO DO](http://roachhaus.github.io/Dev-Dash/todo.html>)
   [html5 please](http://html5please.com) | Look up HTML5, CSS3, etc features, know if they are ready for use, and if so find out how you should use them – with polyfills, fallbacks or as they are. 
  
 
-
 #####Promo Tools
  * Apple links maker
 
-
-
+#####Resource Lists
+ * [Icons]()
+ * Frontend frameworks]()
+ * [Game Dev]()
