@@ -15,19 +15,21 @@
 ###Social Sites Dev Links
  * [Facebook](https://developers.facebook.com/)
  * [Twitter](https://dev.twitter.com//)
- * [Instagram]()
- * [Tumblr]()
+ * [Instagram](http://Instagram.com/developer)
+ * [Tumblr](http://tumbler.com/developers)
+ * [Pinterest](http://developers.pinterest.com)
 
-| ###Dev Services                                | Description                                                            |
-  --------------------------------------------   | ---------------------------------------------------------------------- |
-| [Azure Portal]()                               | Authentication, Databases, mobile services, compute and web services.  |
-| [Parse](https://www.parse.com/apps)            | Hosting, backend services.                                             |
-| [Heroku](https://dashboard-next.heroku)        | App hosting, backend services.                                         |
-| [Ludei cocoonjs]()                             | App package wrapper service.                                           |
-| [Business Catalyst]()                          | Web hosting and CRM.                                                   |
-| [Creative Cloud]()                             | Awesome!                                                               |
-| [Telerik Platform]()                           | Appbuilder, analytics, backend services, prototype builder.            |
-| [Fabric](https://fabric.io/login)              | Twitter built cross development suite of tools *new*                   |
+###App Services
+   Dev Services                                 | Description                                                            
+  -------------------------------------------   | ---------------------------------------------------------------------
+ [Azure Portal]()                               | Authentication, Databases, mobile services, compute and web services.  
+ [Parse](https://www.parse.com/apps)            | Hosting, backend services.                                             
+ [Heroku](https://dashboard-next.heroku)        | App hosting, backend services.                                         
+ [Ludei cocoonjs]()                             | App package wrapper service.                                           
+ [Business Catalyst]()                          | Web hosting and CRM.                                                   
+ [Creative Cloud]()                             | Awesome!                                                               
+ [Telerik Platform]()                           | Appbuilder, analytics, backend services, prototype builder.            
+ [Fabric](https://fabric.io/login)              | Twitter built cross development suite of tools *new*                   
  
 
 ###Other APIs
@@ -54,7 +56,9 @@
  * [Mopub](https://app.mopub.com/account/login/?next=/dashboard/)
  * [Admob google](https://www.google.com/ads/admob/index.html)
  * [Microsoft Publishing Center]()
- * [Leadbolt]()
+ 
+
+
 
 #####Maps
 
