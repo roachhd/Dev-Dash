@@ -39,13 +39,25 @@
  * [Github](http://Github.com)
  * [BitBucket](http://Bitbucket.com)
 
---------------
 #####Nokia
+
+#####Dev Tools 
+ * [Google Analytics]()
+ * [Google Webmaster]()
+
+#####Advertising
+ * [Mopub](https://app.mopub.com/account/login/?next=/dashboard/)
+ * [Admob google](https://www.google.com/ads/admob/index.html)
+ * [Microsoft Publishing Center]()
+ * [Leadbolt]()
 
 #####Maps
 
 #####Health
 
 #####Music
+ * [Soundcloud]()
+ * [Spotify]()
+ * [Xbox Music](http://music.xbox.com/developer)
 
 #####Photos
