@@ -16,11 +16,11 @@ I find there are so many that I use that it's handy to have a list to check out 
 ###Social Sites & Dev Links
   Dev Site                                         | Social Site
   ------------------------------------------------ | ---------------------
- [Facebook](https://developers.facebook.com/)
-  [Twitter](https://dev.twitter.com//)
-  [Instagram](http://Instagram.com/developer)
-  [Tumblr](http://tumbler.com/developers)
-  [Pinterest](http://developers.pinterest.com)
+  [Facebook dev](https://developers.facebook.com/)     | [Facebook](http://facebook.com)
+  [Twitter dev](https://dev.twitter.com//).         | here
+  [Instagram dev](http://Instagram.com/developer) |
+  [Tumblr](http://tumbler.com/developers)|here
+  [Pinterest](http://developers.pinterest.com)| here
   [Flickr dev](https://www.flickr.com/services/developer)   | [Flickr](http://flickr.com)
 
 ###App Services
