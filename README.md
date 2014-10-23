@@ -1,5 +1,6 @@
 ##Developer Dashboards *WIP*
-
+This repo is a list of links to developer dashboards, publishing tools, backend services, SDK's and API's to use in development, development tools, and a bunch of other random stuff. 
+I find there are so many that I use that it's handy to have a list to check out to see what tools and services I want to use for my next project. 
 
 ### Development Dashboards
  * [Apple iOS](https://developer.apple.com/membercenter/)
@@ -84,10 +85,13 @@
  * [Code Anywhere]()
  * [Markdown to HTML](http://tools.roachhaus.com/updown)
 
+#####Planning Tools
+ * [Project Hub] 
+ * [Trelli Boards](http://Trelli.com)
+
 #####My Random Extras 
  * []()
  * []()
-
 
 
 [test](http://roachhd.com target="_blank")
