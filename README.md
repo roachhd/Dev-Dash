@@ -1,10 +1,5 @@
-##Developer Dashboards **WIP**
-----------------------------------------
-###Social Sites Dev Links
- * [Facebook](https://developers.facebook.com/)
- * [Twitter](https://dev.twitter.com//)
- * [Instagram]()
- * [Tumblr]()
+##Developer Dashboards *WIP*
+
 
 ### Development Dashboards
  * [Apple iOS](https://developer.apple.com/membercenter/)
@@ -17,14 +12,23 @@
  * [Xbox One]()
  * [Xbox Indie]()
 
-###Dev Services
- * [Azure Portal]()
- * [Parse](https://www.parse.com/apps)
- * [Heroku](https://dashboard-next.heroku)
- * [Ludei cocoonjs]()
- * [Business Catalyst]()
- * [Creative Cloud]()
- * [Telerik Platform]()
+###Social Sites Dev Links
+ * [Facebook](https://developers.facebook.com/)
+ * [Twitter](https://dev.twitter.com//)
+ * [Instagram]()
+ * [Tumblr]()
+
+| ###Dev Services                                | Description                                                            |
+  --------------------------------------------   | ---------------------------------------------------------------------- |
+| [Azure Portal]()                               | Authentication, Databases, mobile services, compute and web services.  |
+| [Parse](https://www.parse.com/apps)            | Hosting, backend services.                                             |
+| [Heroku](https://dashboard-next.heroku)        | App hosting, backend services.                                         |
+| [Ludei cocoonjs]()                             | App package wrapper service.                                           |
+| [Business Catalyst]()                          | Web hosting and CRM.                                                   |
+| [Creative Cloud]()                             | Awesome!                                                               |
+| [Telerik Platform]()                           | Appbuilder, analytics, backend services, prototype builder.            |
+| [Fabric](https://fabric.io/login)              | Twitter built cross development suite of tools *new*                   |
+ 
 
 ###Other APIs
  * [FitBit]()
