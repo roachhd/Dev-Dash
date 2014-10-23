@@ -1,6 +1,6 @@
 Developer Dashboards *WIP*
 ===
-[Fork it](http://github.com/roachhd/Dev-Dash/, [Star it](http://github.com/roachhd/Dev-Dash) or just drool over it it [here].(http://roachhd.github.io/Dev-Dash/)
+[Fork it](http://github.com/roachhd/Dev-Dash), [Star it](http://github.com/roachhd/Dev-Dash) or just drool over it it [here].(http://roachhd.github.io/Dev-Dash/)
 [Read](http://roachhd.github.io/Dev-Dash/todo.html) the To do list
 
 Add stuff and submit a pull request!
