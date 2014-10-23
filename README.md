@@ -2,6 +2,9 @@ Developer Dashboards *WIP*
 ===
 This repo is a list of links to developer dashboards, publishing tools, backend services, SDK's and API's to use in development, development tools, and a bunch of other random stuff. 
 I find there are so many that I use that it's handy to have a list to check out to see what tools and services I want to use for my next project. 
+Fork it and add some stuff to submit a pull request. 
+
+Check out the To Do list [TO DO](http://roachhaus.github.io/Dev-Dash/todo.html>)
 
 ### Development Dashboards
  Dashboard                                                                 | Docs                    | Forums/other
